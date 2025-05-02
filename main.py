@@ -6,11 +6,11 @@ GENDER = "YOUR GENDER"
 WEIGHT_KG =" YOUR WEIGHT"
 AGE = "YOUR AGE"
 HEIGHT_CM = "YOUR HEIGHT"
-BASIC_USERNAME = "amuthaluri"
-BASIC_PASSWORD = "sasha@1234567"
+BASIC_USERNAME = "-"
+BASIC_PASSWORD = "-"
 
-APP_ID = "16cca952"
-API_KEY = "3283d972d9db04180182bf840188a789"
+APP_ID = "-"
+API_KEY = "-"
 
 exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 
